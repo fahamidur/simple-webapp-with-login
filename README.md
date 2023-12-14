@@ -1,6 +1,6 @@
 # Flask Notes App Tutorial
 
-Welcome to the Flask Notes App tutorial! Follow these steps to set up, install dependencies, run the app, and view it in your browser.
+Welcome to the Simple flask app with login! Follow these steps to set up, install dependencies, run the app, and view it in your browser.
 
 ## Table of Contents
 - [Setup & Installation](#setup--installation)
@@ -12,8 +12,8 @@ Welcome to the Flask Notes App tutorial! Follow these steps to set up, install d
 
 1. **Clone the Repository:**
    ```bash
-   git clone <repo-url>
-   cd flask-notes-app
+   git clone https://github.com/fahamidur/simple-webapp-with-login.git
+   cd simple-webapp-with-login
    ```
 
 2. **Install Dependencies:**
@@ -37,10 +37,12 @@ You should now see the Flask Notes App up and running. If it's your first time, 
 
 ## Screenshots
 <!-- Add your screenshots here. -->
-![Screenshot 1](images/screenshot1.png)
-*Caption for screenshot 1.*
+![Screenshot 1](images/1.JPG)
+*LogIn Page*
 
-![Screenshot 2](images/screenshot2.png)
-*Caption for screenshot 2.*
+![Screenshot 2](images/3.JPG)
+*Dashboard for adding Notes*
 
-Happy coding!
+![Screenshot 3](images/4.JPG)
+*Notes Added*
+
